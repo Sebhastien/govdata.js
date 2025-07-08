@@ -49,9 +49,9 @@
     "api"
   ],
   "bugs": {
-    "url": "https://github.com/bidstream/govdata.js/issues"
+    "url": "https://github.com/sebhastien/govdata.js/issues"
   },
-  "homepage": "https://github.com/bidstream/govdata.js#readme",
+  "homepage": "https://github.com/sebhastien/govdata.js#readme",
   "engines": {
     "node": ">=18.0.0"
   },

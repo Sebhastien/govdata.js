@@ -7,9 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.0.0] - 2024-01-08
+## [0.1.0] - 2025-07-07
 
 ### Added
+
 - Initial release
 - FPDS integration with full field mapping (47+ fields)
 - TypeScript support with full type definitions
@@ -28,6 +29,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Request metadata tracking and performance monitoring
 
 ### Features
+
 - **Data-Only Philosophy**: Returns clean data without built-in persistence
 - **Zero Dependencies**: Minimal external dependencies (fast-xml-parser, commander)
 - **Platform Agnostic**: Works in Node.js, Deno, and browser environments
@@ -38,12 +40,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Comprehensive Validation**: Parameter validation with helpful suggestions
 
 ### CLI Commands
+
 - `govdata fpds search` - Generic FPDS contract search
 - `govdata fpds mqs` - Process MQS contracts from JSON file
 - `govdata fpds icsp` - Process ICSP partners from JSON file
 - `govdata examples` - Show usage examples
 
 ### API Exports
+
 - `FPDSRequest` - Main FPDS request class
 - `FPDSFieldMapper` - Field mapping utilities
 - `MQSProcessor` - MQS contract processing
@@ -55,16 +59,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Error classes and utilities
 
 ### Changed
+
 - N/A
 
 ### Deprecated
+
 - N/A
 
 ### Removed
+
 - N/A
 
 ### Fixed
+
 - N/A
 
 ### Security
+
 - N/A
